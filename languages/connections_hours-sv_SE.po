@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Connections Business Hours v1.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-04 12:47-0500\n"
+"PO-Revision-Date: 2015-05-04 12:47-0500\n"
+"Last-Translator: Steven A. Zahm <helpdesk@connections-pro.com>\n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ connections_hours
+#: connections_hours.php:203
+msgid "Now"
+msgstr "Nu"
+
+# @ connections_hours
+#: connections_hours.php:204
+msgid "Done"
+msgstr "Klart"
+
+# @ connections_hours
+#: connections_hours.php:205
+msgid "AM"
+msgstr "Eftermiddag"
+
+# @ connections_hours
+#: connections_hours.php:205
+msgid "A"
+msgstr ""
+
+# @ connections_hours
+#: connections_hours.php:206
+msgid "PM"
+msgstr "Förmiddag"
+
+# @ connections_hours
+#: connections_hours.php:206
+msgid "P"
+msgstr ""
+
+# @ connections_hours
+#: connections_hours.php:209
+msgid "Choose Time"
+msgstr "Välj tid"
+
+# @ connections_hours
+#: connections_hours.php:210
+msgid "Time"
+msgstr "Tid"
+
+# @ connections_hours
+#: connections_hours.php:211
+msgid "Hour"
+msgstr "Timme"
+
+# @ connections_hours
+#: connections_hours.php:212
+msgid "Minute"
+msgstr "Minut"
+
+# @ connections_hours
+#: connections_hours.php:213
+msgid "Second"
+msgstr "Sekund"
+
+# @ connections_hours
+#: connections_hours.php:214
+msgid "Millisecond"
+msgstr "Millisekund"
+
+# @ connections_hours
+#: connections_hours.php:215
+msgid "Microsecond"
+msgstr "Microsekund"
+
+# @ connections_hours
+#: connections_hours.php:216
+msgid "Time Zone"
+msgstr "Tidszon"
+
+# @ connections_hours
+# @ connections_cnbh
+#: connections_hours.php:275 includes/class.widgets.php:21
+#: includes/class.widgets.php:26 includes/class.widgets.php:73
+#: includes/class.widgets.php:231
+msgid "Business Hours"
+msgstr "Öppettider"
+
+# @ connections_hours
+#: connections_hours.php:296 connections_hours.php:303
+msgid "Weekday"
+msgstr "Veckodag"
+
+# @ connections_hours
+#: connections_hours.php:297 connections_hours.php:304
+#: connections_hours.php:523 connections_hours.php:534
+msgid "Open"
+msgstr "Öppet"
+
+# @ connections_hours
+#: connections_hours.php:298 connections_hours.php:305
+#: connections_hours.php:525 connections_hours.php:536
+msgid "Close"
+msgstr "Stängt"
+
+# @ connections_hours
+#: connections_hours.php:299 connections_hours.php:306
+msgid "Add / Remove Period"
+msgstr "Lägg till / ta bort period"
+
+# @ connections_hours
+#: connections_hours.php:435
+msgid ""
+"To create a closed day or closed period within a day, leave both the open "
+"and close hours blank."
+msgstr ""
+"För att skapa en stängd dag eller stängd period inom en dag, lämna då både "
+"öppna och stängda timmar tomt."
+
+#: connections_hours.php:508
+msgid "We are currently open."
+msgstr "Vi har öppet"
+
+#: connections_hours.php:512
+msgid "Sorry, we are currently closed."
+msgstr "För närvarande stängt"
+
+# @ connections_hours
+#: connections_hours.php:568
+msgid "Closed Today"
+msgstr "Idag stängt"
+
+# @ connections_hours
+#: connections_hours.php:598
+msgid "Closed Period"
+msgstr "Stängd period"
+
+# @ connections_cnbh
+#: includes/class.widgets.php:88
+msgid "Title:"
+msgstr ""
+
+# @ connections_cnbh
+#: includes/class.widgets.php:100
+msgid "Show the open status message above the operating hours."
+msgstr ""
+
+# @ connections_cnbh
+#: includes/class.widgets.php:112
+msgid "Highlight the current open period within the operating hours."
+msgstr ""
+
+# @ connections_cnbh
+#: includes/class.widgets.php:124
+msgid "Show Open/Close Header"
+msgstr ""
+
+# @ connections_cnbh
+#: includes/class.widgets.php:136
+msgid "Show Open/Close Footer"
+msgstr ""
+
+# @ connections_cnbh
+#: includes/class.widgets.php:148
+msgid "Show the days that are closed with a \"Closed Today\" message."
+msgstr ""
+
+# @ connections_cnbh
+#: includes/class.widgets.php:160
+msgid ""
+"Show the periods within a day that are closed with a \"Closed Period\" "
+"message."
+msgstr ""
+
+# @ connections_cnbh
+#: includes/class.widgets.php:172
+msgid ""
+"Show the operating hours if there are no open days or periods in the week. "
+"All days will be shown with a \"Closed Today\" message only if the show "
+"\"Closed Today\" message option is enabled."
+msgstr ""
+
+# @ connections_cnbh
+#: includes/class.widgets.php:183
+msgid "Full Name"
+msgstr ""
+
+# @ connections_cnbh
+#: includes/class.widgets.php:184
+msgid "Abbreviated"
+msgstr ""
+
+# @ connections_cnbh
+#: includes/class.widgets.php:185
+msgid "Initial"
+msgstr ""
+
+# @ connections_cnbh
+#: includes/class.widgets.php:187
+msgid "Display the weekday name as:"
+msgstr ""
